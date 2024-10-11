@@ -1,0 +1,17 @@
+{
+  "itemId" : "_Um4NsIfWEe-LvJ54saGJNg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_wrNbIIfWEe-LvJ54saGJNg",
+    "parameterList" : [ {
+      "id" : "_wrhkMYfWEe-LvJ54saGJNg",
+      "name" : "minValue"
+    }, {
+      "id" : "_wrhkMofWEe-LvJ54saGJNg",
+      "name" : "maxValue"
+    }, {
+      "id" : "_wrhkM4fWEe-LvJ54saGJNg",
+      "name" : "valueChar"
+    } ]
+  } ]
+}
